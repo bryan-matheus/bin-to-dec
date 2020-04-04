@@ -2,8 +2,6 @@
 
 Idea from [here](https://github.com/florinpop17/app-ideas)
 
-**Demo**: [Codesandbox](https://lrkm139qwl.codesandbox.io/)
-
 **Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on.
